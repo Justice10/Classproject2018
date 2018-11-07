@@ -1,0 +1,25 @@
+<!Doctype html>
+<html>
+<head>
+<title>My Favorite Restaurants</title>
+</head>
+<body>
+  <div>
+<h1>Welcome to my Favorite Restaurants Site</h1>
+<p1><b class='location'>This site is all about my favorite restaurants!</b></p2>
+<h2>Some Places I like to dine at:</h2>
+<ul>
+<li><a href="https://www.hardrock.com/cafes/guam/">Hard Rock Cafe Tumon,Guam</a></li>
+<img src="https://www.hardrock.com/cafes/guam/files/2371/exteriorvis2.jpg" alt="Hard Rock Cafe in Guam" width="10%"/>
+<li><a href="http://www.thatdubaisite.com/restaurants/3998/" target="_blank">Ossiano at Atlantis The Palm,Dubai</a></li>
+<img src="http://www.thatdubaisite.com/wp-content/uploads/2014/04/Ossiano.jpg" alt="Ossiano at Atlantis in Dubai" width="10%"/>
+<li><a href="https://www.finedininglovers.com/blog/culinary-stops/cave-restaurant/">The Enchanted Grotto Puglia,Italy</a></li>
+<img src="http://img.finedininglovers.com/?img=http%3A%2F%2Ffinedininglovers.cdn.crosscast-system.com%2FBlogPost%2FOriginal_1645_cave--1-.jpg&w=1200&h=660&lu=1457156529&ext=.jpg" alt="The Enchanted Grotto in Italy" width="10%"/>
+<li><a href="http://jpninfo.com/25029">Zauo Restaurant Tokyo,Japan</a></li>
+<img src="http://jpninfo.com/wp-content/uploads/2015/10/zauo-restaurant.jpg" alt="Japanese temple" width="10%"/>
+<li><a href="https://www.bjsrestaurants.com/locations/ca/montebello">BJ's Restaurant Montebello,California</a></li>
+<img src="https://cloudfront.bjsrestaurants.com/464.jpg" alt="BJ's Restaurant in California" width="10%"/>
+<li><a href="">Jay's Restaurant Marietta,GA</a></li>
+</ul>
+</body>
+</html>

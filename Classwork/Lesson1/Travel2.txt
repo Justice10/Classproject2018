@@ -1,0 +1,10 @@
+<!Doctype html>
+<html>
+<head>
+<title>My Travel Site</title>
+</head>
+<body>
+<h1>Welcome to my Travel Site</h1>
+<h2>Some Places I'd Like to Visit:</h2>
+</body>
+</html>
